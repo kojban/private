@@ -4,14 +4,12 @@
 1149:X
 1940:X
 9581:X
-—
 9502:6
 9507:6
 21907sv:6:Praha-Vršovice;10:22,Praha jih;10:26;11:29,Praha-Vršovice;11:33
 9512:6
 9517:6
 9518:6
-—
 9504:T
 9509:T
 9510:7
@@ -24,7 +22,139 @@
 9510:X
 9513:X
 9514:XT
-6056:X1234,T
-9519:X1234:Ml. Boleslav m.;20:24,Praha-Vršovice;22:18
-9519:X5:Ml. Boleslav hl.n.;20:37,Všetaty;21:13??????????????????
+6056:X1234,T:Mladá Boleslav hl.n.;19:43,Mladá Boleslav město;19:49
+9519:X1234,T:Mladá Boleslav město;20:24,Praha-Vršovice;22:18
+9519:X5:Ml. Boleslav hl.n.;20:37,Všetaty;21:13
+109519pk:X5:Všetaty;21:21,Praha-Vršovice;22:18
 9538:X5
+101146vlož:6:Praha-Vršovice;09:13,Železný Brod;11:34
+121832sv:6:Železný Brod;12:17,Tanvald;12:41
+1147:25:Tanvald;13:49,Železný Brod;14:15
+101147pk:25:Železný Brod;14:20,Turnov;14:35
+1147:25:Turnov;14:44,Prahy-Vršovice;16:46
+1140:6
+121832sv:T:Turnov;11:48,Tanvald;12:41
+
+9591:6
+9550:6
+9505:6
+9526:6
+9527:6
+9530:6
+9531:6
+9534:25
+9535:25
+109535sv:6:Praha-Vršovice;19:28,Praha jih;19:32;20:10,Praha-Vršovice;20:14
+9518:XT
+9524:X
+9525:X
+9506:X
+9511:X
+1944:X
+9517:X
+
+1941:X
+1148:X
+26271:X
+5410:X
+1145:X
+1142:XT
+102675pk:X5:Tanvald;18:27,Železný Brod;18:53
+121830sv:X5:Železný Brod;19:20,Turnov;19:45
+9544:7
+9525:7
+9506:7
+9511:7
+9503:6
+9510:6
+9515:6
+9516:6
+
+5423:X
+1141:X6
+9512:X
+9515:X
+9516:X
+9551:X
+9505:7
+9528:25
+9529:25
+9532:25
+9533:25
+9536:6
+9537:6
+9538:6
+1940:T
+9539:T
+
+9520:X1:Praha-Vršovice;00:09,Mělník;01:12
+9520:X2345,6:Praha hl.n.;00:16,Mělník;01:12
+9521:6
+9522:6
+109593sv:6:Mělník;03:36,Všetaty;03:45
+109590sv:6:Všetaty;03:55,Byšice;04:00
+9523:6
+109523sv:6:Praha-Vršovice;05:27,Praha jih;05:31;06:22,Praha-Vršovice;06:26
+1937:6
+1936:6
+101936sv:6:Praha hl.n.;19:20,Praha-Vršovice;19:24
+109591sv:T:Mělník;00:00,Všetaty;00:09
+9503:T
+9526:XT
+9527:XT
+9508:X
+9572:X
+9573:X
+9515:X:Mladá Boleslav hl.n.;16:37,Všetaty;17:11
+109515pk:X:Všetaty;17:20,Praha hl.n.;18:12
+1942:X
+6447:X1234
+9537:X5
+9530:7
+9531:7
+9512:7
+9517:7
+
+109590sv:X1:Praha-Vršovice;03:14,Byšice;04:00
+109590sv:X2345:Všetaty;03:55,Byšice;04:00
+9523:X
+109502pk:X:Praha-Vršovice;05:42,Všetaty;06:37
+9543:X
+1146:X
+5426:X
+5425:X:Tanvald;13:40,Železný Brod;14:07
+105425vlož:X:Železný Brod;14:12,Turnov;13:31
+1147:X
+1140:XT
+9502:T
+9507:T
+9508:T
+9513:T
+9544:6
+9525:6
+9506:6
+9511:6
+1940:6
+9539:6
+
+9520:7
+9521:T
+9522:T
+109593sv:T:Mělník;03:36,Všetaty;03:45
+109590sv:T:Všetaty;03:55,Byšice;04:00
+9523:7
+1937:7
+1936:T
+101936sv:T:Praha hl.n.;19:20,Praha-Vršovice;19:24
+26267:X
+105404pk:X:Železný Brod;07:51,Turnov;08:09
+1143:X
+121909sv:X1:Praha-Vršovice;10:54,Praha jih;10:58;12:27,Praha-Vršovice;12:31
+1144:X
+1151:X
+1143:6
+9508:6
+9513:6
+9514:6
+6056:6:Mladá Boleslav hl.n.;19:43,Mladá Boleslav město;19:49
+9519:6
