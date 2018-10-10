@@ -1,16 +1,38 @@
-!!! WIP !!!
-
-
-1241:X6
-1242:zX
+1241:X1:České Budějovice;05:12,Praha hl.n.;08:41
+1241:X2345,6
+101241sv:X:Praha hl.n.;09:05,Praha-Vršovice;09:10
+101244sv:X5:Praha-Vršovice;12:57,Praha hl.n.;13:02
+101242sv:X1234,T:Praha-Vršovice;15:15,Praha hl.n.;15:20
 1244:X5
+1242:X1234,T
+1243:T
+101243sv:T:Praha hl.n.;10:50,Praha-Vršovice;10:55
 1248:6
 1249:6
-1243:T
+101249sv:6:Praha hl.n.;19:05,Praha-Vršovice;19:10
 
-1243:X
+101250sv:7:Praha-Vršovice;06:48,Praha hl.n.;06:53
+1250:7
+1249:XT
+101249sv:XT:Praha hl.n.;19:05,Praha-Vršovice;19:10
+121911sv:X1,X4:Praha-Vršovice;21:13,Praha jih;22:17;22:17,Praha-Vršovice;22:21
+9538:zX
+1243:X6
+101243sv:6:Praha hl.n.;10:50,Praha-Vršovice;10:55
+101242sv:6:Praha-Vršovice;15:15,Praha hl.n.;15:20
+1242:6
+1253:6
+129253sv:6:Písek;20:20,Protivín;20:32
 
 9550:X
 9503:X
 1250:X6
-1247:X12346
+1245:X5
+1242:X5
+1253:X5
+129253sv:X5:Písek;20:20,Protivín;20:32
+101250sv:6:Praha-Vršovice;06:48,Praha hl.n.;06:53
+1248:T
+1247:X1234,25
+1240:X1234:Praha hl.n.;17:24,Protivín;20:12
+1240:25:Praha hl.n.;17:24,České Budějovice;20:45
