@@ -1,0 +1,32 @@
+9524:X
+1148:25
+9525:X
+9508:X
+1145:25
+9572:X
+9573:X
+1142:6
+9515:X:Mladá Boleslav hl.n.;16:37,Všetaty;17:18
+109515vlož:X:Všetaty;17:23,Praha-Vršovice;18:27
+9534:T
+9535:T
+9536:X
+109535sv:T:Praha-Vršovice;19:37,Praha jih;19:41;20:51,Praha-Vršovice;20:55
+109519pk:X5:Všetaty;21:23,Praha-Vršovice;22:27
+
+109590sv:X1:Praha-Vršovice;03:42,Neratovice;04:14
+109591sv:X2345:Všetaty;03:59,Neratovice;04:05
+9550:X
+9503:X
+109504pk:X:Praha-Vršovice;07:42,Byšice;08:44
+9504:6
+1141:T
+9507:X
+9509:6
+1144:25
+1151:25
+9510:X
+9513:X
+9514:X
+6056:X1234
+9519:X
