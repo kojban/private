@@ -1,4 +1,4 @@
-﻿9524: X: Praha-Vršovice;6:42, Mělník;7:50
+9524: X: Praha-Vršovice;6:42, Mělník;7:50
 1148: 25: Praha-Vršovice;7:13, Harrachov;10:40
 9525: X: Mělník;8:11, Praha-Vršovice;9:27
 1145: 25: Harrachov;11:06, Praha-Vršovice;14:47
