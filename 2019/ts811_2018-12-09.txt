@@ -1,4 +1,4 @@
-﻿1241:X1:České Budějovice;5:12,Praha hl.n.;8:37
+1241:X1:České Budějovice;5:12,Praha hl.n.;8:37
 1241:vX:Protivín;5:43,Praha hl.n.;8:37
 1243:T:České Budějovice;7:12,Praha hl.n.;10:36
 101241sv:X:Praha hl.n.;8:43,Praha-Vršovice;8:48
