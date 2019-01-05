@@ -19,6 +19,10 @@ vrš=Praha-Vršovice
 9509: 6: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
 1144: 6: Praha Masarykovo nádraží;13:19, Harrachov;16:40
 1151: 6: Harrachov;17:06, Praha Masarykovo nádraží;20:35
+9505: 7: Mladá Boleslav hl.n.;6:34, Praha Masarykovo nádraží;8:20
+1146: 7: Praha Masarykovo nádraží;9:19, Tanvald;12:04
+1149: 7: Tanvald;15:50, Praha Masarykovo nádraží;18:35
+9516: 7: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
 
 9550: X: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
 1941: X: Mladá Boleslav hl.n.;5:21, Praha Masarykovo nádraží;6:35
@@ -30,6 +34,8 @@ vrš=Praha-Vršovice
 9506: 6: Praha Masarykovo nádraží;9:47, Mladá Boleslav město;11:32
 9511: 6: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
 1142: 6: Praha Masarykovo nádraží;15:19, Turnov;17:12
+1144: 7: Praha Masarykovo nádraží;13:19, Harrachov;16:40
+1151: 7: Harrachov;17:06, Praha Masarykovo nádraží;20:35
 
 5423: X: Tanvald;5:27, Turnov;6:21
 1141: X: Turnov;6:44, Praha Masarykovo nádraží;8:35
@@ -42,6 +48,10 @@ vrš=Praha-Vršovice
 9515: 6: Mladá Boleslav hl.n.;16:37, Praha Masarykovo nádraží;18:20
 1940: 6: Praha Masarykovo nádraží;19:19, Turnov;21:16
 9539: 6: Turnov;21:30, Praha hl.n.;23:50
+1141: 7: Turnov;6:44, Praha Masarykovo nádraží;8:35
+9506: 7: Praha Masarykovo nádraží;9:47, Mladá Boleslav město;11:32
+9511: 7: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
+1142: 7: Praha Masarykovo nádraží;15:19, Tanvald;18:03
 
 26267: X: Tanvald;7:13, Železný Brod;7:40
 105404př: X: Železný Brod;7:51, Turnov;8:09
@@ -52,3 +62,12 @@ vrš=Praha-Vršovice
 101146pk:6:Praha Masarykovo nádraží;9:19,Tanvald;12:04
 1149: 6: Tanvald;15:50, Praha Masarykovo nádraží;18:35
 9516: 6: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
+9520: 7: Praha hl.n.;0:18, Mělník;1:19
+9521: 7: Mělník;1:24, Praha hl.n.;2:22
+9522: 7: Praha hl.n.;2:33, Mělník;3:34
+9523: 7: Byšice;4:21, Praha Masarykovo nádraží;5:20
+9502: 7: Praha Masarykovo nádraží;5:47, Mladá Boleslav hl.n.;7:18
+9507: 7: Mladá Boleslav hl.n.;8:37, Praha Masarykovo nádraží;10:20
+9508: 7: Praha Masarykovo nádraží;11:47, Mladá Boleslav hl.n.;13:21
+9513: 7: Mladá Boleslav hl.n.;14:37, Praha Masarykovo nádraží;16:20
+1140: 7: Praha Masarykovo nádraží;17:19, Tanvald;20:12
