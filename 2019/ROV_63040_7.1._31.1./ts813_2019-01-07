@@ -1,13 +1,3 @@
-tgm=Praha Masarykovo nádraží
-vše=Všetaty
-měl=Mělník
-tur=Turnov
-phl=Praha hl.n.
-tan=Tanvald
-mbh=Mladá Boleslav hl.n.
-vrš=Praha-Vršovice
-
-
 9523: X: Mladá Boleslav hl.n.;3:49, Praha Masarykovo nádraží;5:20
 109502pk: X: Praha Masarykovo nádraží;5:47, Všetaty;6:39
 9543: X: Všetaty;7:00, Praha Masarykovo nádraží;7:53
@@ -121,12 +111,10 @@ vrš=Praha-Vršovice
 
 
 1:5:0
-0:6:0
 2:5:4
 3:5:0
-0:6:0
 4:5:2
 1:7:3
 2:7:1
 4:7:0
-0:1:0
+5:7:0
