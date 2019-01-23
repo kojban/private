@@ -1,13 +1,3 @@
-tgm=Praha Masarykovo nádraží
-vše=Všetaty
-měl=Mělník
-tur=Turnov
-phl=Praha hl.n.
-tan=Tanvald
-mbh=Mladá Boleslav hl.n.
-vrš=Praha-Vršovice
-
-
 1241:X1:České Budějovice;5:12,Praha hl.n.;8:37
 1241:vX:Protivín;5:43,Praha hl.n.;8:37
 1243:T:České Budějovice;7:12,Praha hl.n.;10:36
@@ -37,7 +27,6 @@ vrš=Praha-Vršovice
 1253:6:České Budějovice;19:12,Písek;19:56
 121911sv:X1,X4:Praha-Vršovice;20:03,Praha jih;20:07;21:21,Praha-Vršovice;21:25
 129253sv:6:Písek;20:20,Protivín;20:32
-9538:zX:Praha-Vršovice;21:42,Mělník;22:50
 
 9524: X: Praha Masarykovo nádraží;6:47, Mělník;7:50
 9525: X: Mělník;8:11, Praha Masarykovo nádraží;9:20
@@ -73,7 +62,6 @@ vrš=Praha-Vršovice
 
 
 3:5:0
-0:6:0
 2:6:4
 3:6:1
 4:6:3
