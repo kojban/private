@@ -18,14 +18,14 @@
 9502: T: Praha-Vršovice;5:42, Mladá Boleslav hl.n.;7:18
 9524: 6: Praha-Vršovice;6:42, Mělník;7:50
 9543: X: Všetaty;7:00, Praha-Vršovice;8:03
+9507: T: Mladá Boleslav hl.n.;8:37, Praha-Vršovice;10:27
 9526: X: Praha-Vršovice;8:42, Mělník;9:50
 9525: 6: Mělník;8:11, Praha-Vršovice;9:27
 9527: X: Mělník;10:11, Praha-Vršovice;11:27
 9528: 6: Praha-Vršovice;10:42, Mělník;11:50
 9529: 6: Mělník;12:11, Praha-Vršovice;13:27
 9510: T: Praha-Vršovice;13:42, Mladá Boleslav hl.n.;15:21
-1946: X: Praha-Vršovice;14:12, Mladá Boleslav hl.n.;15:45
-101946pk: X: Mladá Boleslav hl.n.;15:43, Turnov;16:29
+1946|pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov: X: Praha-Vršovice;14:12, Turnov;16:29
 9532: 6: Praha-Vršovice;14:42, Mělník;15:50
 9533: 6: Mělník;16:11, Praha-Vršovice;17:27
 9515: T: Mladá Boleslav hl.n.;16:37, Praha-Vršovice;18:27
