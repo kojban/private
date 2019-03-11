@@ -1,0 +1,30 @@
+1241: X1: České Budějovice;5:12, Praha hl.n.;8:37
+1241: vX: Protivín;5:43, Praha hl.n.;8:37
+101241sv: X: Praha hl.n.;8:43, Praha-Vršovice;8:48
+1243: T: České Budějovice;7:12, Praha hl.n.;10:36
+101243sv: T: Praha hl.n.;10:43, Praha-Vršovice;10:48
+1248: 6: Praha hl.n.;9:37, České Budějovice;12:45
+101244sv: X5: Praha-Vršovice;12:49, Praha hl.n.;12:54
+1244: X5: Praha hl.n.;13:24, České Budějovice;16:45
+1249: 6: České Budějovice;15:12, Praha hl.n.;18:37
+101249sv: 6: Praha hl.n.;18:59, Praha-Vršovice;19:04
+101242sv: zX: Praha-Vršovice;15:05, Praha hl.n.;15:10
+1242: zX: Praha hl.n.;15:24, České Budějovice;18:45
+1253: zX: České Budějovice;19:12, Písek;19:56
+129253sv: zX: Písek;20:20, Protivín;20:32
+
+129254sv: X: Protivín;5:26, Písek;5:39
+1254: X: Písek;6:00, České Budějovice;6:42
+1243: X6: České Budějovice;7:12, Praha hl.n.;10:36
+101243sv: 6: Praha hl.n.;10:43, Praha-Vršovice;10:48
+225906pksv: 7: Praha-Vršovice;7:05, Praha hl.n.;7:09
+1250: 7: Praha hl.n.;7:24, České Budějovice;10:45
+1246: X: Praha hl.n.;11:24, České Budějovice;14:45
+1249: X7: České Budějovice;15:12, Praha hl.n.;18:37
+101242sv: 6: Praha-Vršovice;15:05, Praha hl.n.;15:10
+1242: 6: Praha hl.n.;15:24, České Budějovice;18:45
+101249sv: X7: Praha hl.n.;18:59, Praha-Vršovice;19:04
+1253: 6: České Budějovice;19:12, Písek;19:56
+129253sv: 6: Písek;20:20, Protivín;20:32
+
+DALŠÍ TD3
