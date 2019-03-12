@@ -27,4 +27,38 @@
 1253: 6: České Budějovice;19:12, Písek;19:56
 129253sv: 6: Písek;20:20, Protivín;20:32
 
-DALŠÍ TD3
+109524sv: X: Praha-Vršovice;6:00, Praha Masarykovo nádraží;6:27
+109504sv: T: Praha-Vršovice;6:27, Praha Masarykovo nádraží;6:57
+9524:X
+9504:T
+9525:X
+9509:T
+9528:X
+9529:X
+9510:7
+9515:7
+1946|pk MBh-Tur|postrk Mladá Boleslav hl.n. - Turnov: X: Praha Masarykovo nádraží;14:19, Turnov;16:29
+1149:X
+1940:7
+9516:X
+9539:7
+9551:X1234
+9551|pk Vše-Phl|postrk Všetaty - Praha hl.n.: X5: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
+
+9520:X1
+9520:vX
+9541:X
+225906pksv: 6: Praha-Vršovice;7:05, Praha hl.n.;7:09
+1250:X6
+1241:7
+1248:7
+1245:X5
+1242:X5
+1247:X1234,25
+1253:X5
+1240:25
+1240:X1234
+129253sv: X5: Písek;20:20, Protivín;20:32
+
+
+DALŠÍ TD5, KONTROLA ČASŮ TD3+TD4
