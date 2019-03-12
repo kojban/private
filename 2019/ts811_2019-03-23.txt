@@ -82,4 +82,24 @@
 109537sv: 6: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
 209537vložsv: X5: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
 
-DALŠÍ TD6
+109590sv: X1: Praha-Vršovice;3:42, Neratovice;4:14
+109591sv: X2345: Všetaty;3:59, Neratovice;4:05
+9550: X: Neratovice;4:19, Mladá Boleslav hl.n.;5:06
+1941: X: Mladá Boleslav hl.n.;5:21, Praha Masarykovo nádraží;6:35
+9504: X: Praha Masarykovo nádraží;7:47, Mladá Boleslav hl.n.;9:21
+9509: X: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
+9510: X: Praha Masarykovo nádraží;13:47, Všetaty;14:39
+9513: X: Všetaty;15:23, Praha Masarykovo nádraží;16:20
+1140: X: Praha Masarykovo nádraží;17:19, Tanvald;20:12
+109506sv: 6: Praha-Vršovice;8:27, Praha Masarykovo nádraží;8:57
+9506: 6: Praha Masarykovo nádraží;9:47, Mladá Boleslav město;11:32
+9511: 6: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
+1142: 6: Praha Masarykovo nádraží;15:19, Turnov;17:12
+101144sv: T: Praha-Vršovice;12:31, Praha Masarykovo nádraží;13:10
+1144: 7: Praha Masarykovo nádraží;13:19, Harrachov;16:40
+1151: 7: Harrachov;17:06, Praha Masarykovo nádraží;20:35
+209537pksv: 7: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+101151sv101151: 6: Turnov;20:00, Mladá Boleslav hl.n.;20:35
+101140sv101140: 6: Mladá Boleslav hl.n.;22:00, Turnov;22:53
+
+DALSI TD7
