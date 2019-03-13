@@ -263,3 +263,9 @@
 9518: T: Praha Masarykovo nádraží;20:47, Turnov;23:15
 409537: X: Všetaty;20:23, Praha Masarykovo nádraží;21:20
 109537sv: X: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+
+
+4:1,2,3,4:1
+8:1,2,3,4:5
+12:1,2,3,4:9
+13:1,2,3,4:13
