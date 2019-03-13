@@ -102,4 +102,40 @@
 101151sv101151: 6: Turnov;20:00, Mladá Boleslav hl.n.;20:35
 101140sv101140: 6: Mladá Boleslav hl.n.;22:00, Turnov;22:53
 
-DALSI TD7
+5423: X: Tanvald;5:27, Turnov;6:21
+1141: XT: Turnov;6:44, Praha Masarykovo nádraží;8:35
+1143: 6: Tanvald;7:50, Praha Masarykovo nádraží;10:35
+9506: X: Praha Masarykovo nádraží;9:47, Mladá Boleslav hl.n.;11:21
+9506: 7: Praha Masarykovo nádraží;9:47, Mladá Boleslav město;11:32
+9511: 7: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
+9511: X: Mladá Boleslav hl.n.;12:37, Praha Masarykovo nádraží;14:20
+9510: 6: Praha Masarykovo nádraží;13:47, Mladá Boleslav hl.n.;15:21
+1142: XT: Praha Masarykovo nádraží;15:19, Tanvald;18:03
+9515: 6: Mladá Boleslav hl.n.;16:37, Praha Masarykovo nádraží;18:20
+1940: 6: Praha Masarykovo nádraží;19:19, Turnov;21:16
+9539: 6: Turnov;21:30, Praha-Vršovice;23:59
+2645: X5: Tanvald;18:27, Železný Brod;18:53
+121830sv: X5: Železný Brod;19:20, Turnov;19:45
+
+9520: 7: Praha-Vršovice;0:13, Mělník;1:19
+9521: 7: Mělník;1:24, Praha hl.n.;2:22
+9522: 7: Praha hl.n.;2:33, Mělník;3:34
+109593sv: 7: Mělník;3:41, Byšice;4:10
+9523: 7: Byšice;4:21, Praha Masarykovo nádraží;5:20
+9502: 7: Praha Masarykovo nádraží;5:47, Mladá Boleslav hl.n.;7:18
+9507: 7: Mladá Boleslav hl.n.;8:37, Praha Masarykovo nádraží;10:20
+9508: 7: Praha Masarykovo nádraží;11:47, Mladá Boleslav hl.n.;13:21
+9513: 7: Mladá Boleslav hl.n.;14:37, Praha Masarykovo nádraží;16:20
+1140: 7: Praha Masarykovo nádraží;17:19, Tanvald;20:12
+1141: 6: Turnov;6:44, Praha Masarykovo nádraží;8:35
+101146pk: 6: Praha Masarykovo nádraží;9:19, Tanvald;12:04
+1149: 6: Tanvald;15:50, Praha Masarykovo nádraží;18:35
+9516: 6: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
+26267: X: Tanvald;7:13, Železný Brod;7:40
+105404pk: X: Železný Brod;7:51, Turnov;8:09
+1143: X: Turnov;8:44, Praha Masarykovo nádraží;10:35
+1144: X: Praha Masarykovo nádraží;13:19, Tanvald;16:03
+1151: X: Tanvald;17:50, Praha Masarykovo nádraží;20:35
+209537pksv: X: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
+
+DALŠÍ TD9
