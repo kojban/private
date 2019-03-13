@@ -46,7 +46,7 @@
 109551| pk Vše-Phl|postrk Všetaty - Praha hl.n.: X5: Mladá Boleslav hl.n.;22:41, Praha hl.n.;0:13
 
 9520: X1: Praha-Vršovice;0:13, Mělník;1:19
-9520: vX: Praha hl.n.;0:18, Mělník;1:19
+9520: X2345: Praha hl.n.;0:18, Mělník;1:19
 9541: X: Mělník;5:48, Praha hl.n.;6:53
 225906pksv: 6: Praha-Vršovice;7:05, Praha hl.n.;7:09
 1250: X6: Praha hl.n.;7:24, České Budějovice;10:45
@@ -116,6 +116,8 @@
 9539: 6: Turnov;21:30, Praha-Vršovice;23:59
 2645: X5: Tanvald;18:27, Železný Brod;18:53
 121830sv: X5: Železný Brod;19:20, Turnov;19:45
+101151sv101151: X5: Turnov;20:00, Mladá Boleslav hl.n.;20:35
+101140sv101140: X5: Mladá Boleslav hl.n.;22:00, Turnov;22:53
 
 9520: 7: Praha-Vršovice;0:13, Mělník;1:19
 9521: 7: Mělník;1:24, Praha hl.n.;2:22
@@ -209,8 +211,9 @@
 9538: XT: Praha Masarykovo nádraží;21:47, Mělník;22:50
 109599sv: X5: Mělník;23:01, Všetaty;23:10
 9551: X5: Všetaty;23:23, Praha hl.n.;0:13
+209551sv: X5: Praha hl.n.;0:16, Praha-Vršovice;0:20
 
-209551sv: 6: Praha hl.n.;0:16, Praha-Vršovice;0:20
+9520: 6: Praha hl.n.;0:18, Mělník;1:19
 9521: 6: Mělník;1:24, Praha hl.n.;2:22
 9522: 6: Praha hl.n.;2:33, Mělník;3:34
 109591sv: 6: Mělník;3:41, Neratovice;4:05
@@ -270,5 +273,11 @@
 12:1,2,3,4:9
 13:1,2,3,4:13
 4:6,7:1
-2:5:4
-2:6:4
+8:5,6:5
+6:7:5
+8:7:7
+13:5:9
+13:6:9
+5:7:9
+10:7:10
+3:5:12
