@@ -92,7 +92,7 @@
 9506: 6: Praha Masarykovo nádraží;9:47, Mladá Boleslav město;11:32
 9509: X: Mladá Boleslav hl.n.;10:37, Praha Masarykovo nádraží;12:20
 9511: 6: Mladá Boleslav město;12:29, Praha Masarykovo nádraží;14:20
-101144sv: T: Praha-Vršovice;12:31, Praha Masarykovo nádraží;13:10
+201144sv: T: Praha-Vršovice;12:31, Praha Masarykovo nádraží;13:10
 1144: 7: Praha Masarykovo nádraží;13:19, Harrachov;16:40
 9510: X: Praha Masarykovo nádraží;13:47, Všetaty;14:39
 1142: 6: Praha Masarykovo nádraží;15:19, Turnov;17:12
@@ -141,6 +141,7 @@
 9516: 6: Praha Masarykovo nádraží;19:47, Mladá Boleslav hl.n.;21:20
 409537pksv: X: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
 
+109597sv: X1: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
 9523: X: Mladá Boleslav hl.n.;3:49, Praha Masarykovo nádraží;5:20
 129321sv: 6: Praha-Vršovice;4:55, Praha Masarykovo nádraží;5:25
 9501: 7: Všetaty;5:22, Praha Masarykovo nádraží;6:20
@@ -170,7 +171,7 @@
 309537sv: 7: Praha Masarykovo nádraží;21:39, Praha-Vršovice;22:15
 9540: X: Praha Masarykovo nádraží;22:47, Mladá Boleslav město;0:22
 
-109597sv: X6: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
+109597sv: vX: Mladá Boleslav město;0:27, Mladá Boleslav hl.n.;0:33
 9523: 6: Mladá Boleslav hl.n.;3:49, Praha Masarykovo nádraží;5:20
 9501: X: Mladá Boleslav hl.n.;4:41, Praha Masarykovo nádraží;6:20
 109524pk: X: Praha Masarykovo nádraží;6:47, Všetaty;7:39
@@ -268,17 +269,17 @@
 109599sv: 6: Mělník;23:01, Všetaty;23:10
 
 
+2:56:4
 3:5:12
-4:1234:1
-4:67:1
+3:6:3
+4:1234567:1
 5:7:9
 6:7:5
-8:1234:5
-8:56:5
+8:123456:5
 8:7:7
-10:7:10
+9:7:6
+10:7:9
 11:5:3
 12:1234:9
 13:1234:13
-13:5:9
-13:6:9
+13:56:9
